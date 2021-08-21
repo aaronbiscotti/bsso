@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.53088d9d.chunk.css",
-    "main.js": "/static/js/main.e2e0c319.chunk.js",
-    "main.js.map": "/static/js/main.e2e0c319.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2c49cd0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2c49cd0b.js.map",
+    "main.css": "/static/css/main.790f54f5.chunk.css",
+    "main.js": "/static/js/main.a699a4b3.chunk.js",
+    "main.js.map": "/static/js/main.a699a4b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4144965b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4144965b.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.9b031327.chunk.js": "/static/js/2.9b031327.chunk.js",
-    "static/js/2.9b031327.chunk.js.map": "/static/js/2.9b031327.chunk.js.map",
-    "static/js/3.9f2fd953.chunk.js": "/static/js/3.9f2fd953.chunk.js",
-    "static/js/3.9f2fd953.chunk.js.map": "/static/js/3.9f2fd953.chunk.js.map",
+    "static/js/2.c5dcace1.chunk.js": "/static/js/2.c5dcace1.chunk.js",
+    "static/js/2.c5dcace1.chunk.js.map": "/static/js/2.c5dcace1.chunk.js.map",
+    "static/js/3.65dced9d.chunk.js": "/static/js/3.65dced9d.chunk.js",
+    "static/js/3.65dced9d.chunk.js.map": "/static/js/3.65dced9d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.53088d9d.chunk.css.map": "/static/css/main.53088d9d.chunk.css.map",
-    "static/js/2.9b031327.chunk.js.LICENSE.txt": "/static/js/2.9b031327.chunk.js.LICENSE.txt",
+    "static/css/main.790f54f5.chunk.css.map": "/static/css/main.790f54f5.chunk.css.map",
+    "static/js/2.c5dcace1.chunk.js.LICENSE.txt": "/static/js/2.c5dcace1.chunk.js.LICENSE.txt",
     "static/media/Aksha.b27c000f.JPG": "/static/media/Aksha.b27c000f.JPG",
     "static/media/Alison.1a48accc.jpg": "/static/media/Alison.1a48accc.jpg",
     "static/media/Bhaskar.694735c2.jpg": "/static/media/Bhaskar.694735c2.jpg",
@@ -33,10 +33,10 @@
     "static/media/scioly3.063af372.jpg": "/static/media/scioly3.063af372.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c49cd0b.js",
+    "static/js/runtime-main.4144965b.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.9b031327.chunk.js",
-    "static/css/main.53088d9d.chunk.css",
-    "static/js/main.e2e0c319.chunk.js"
+    "static/js/2.c5dcace1.chunk.js",
+    "static/css/main.790f54f5.chunk.css",
+    "static/js/main.a699a4b3.chunk.js"
   ]
 }
