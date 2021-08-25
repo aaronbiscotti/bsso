@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.790f54f5.chunk.css",
-    "main.js": "/static/js/main.a699a4b3.chunk.js",
-    "main.js.map": "/static/js/main.a699a4b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4144965b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4144965b.js.map",
+    "main.css": "/static/css/main.1ce19fde.chunk.css",
+    "main.js": "/static/js/main.d16f6d56.chunk.js",
+    "main.js.map": "/static/js/main.d16f6d56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a534b09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a534b09.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.c5dcace1.chunk.js": "/static/js/2.c5dcace1.chunk.js",
-    "static/js/2.c5dcace1.chunk.js.map": "/static/js/2.c5dcace1.chunk.js.map",
-    "static/js/3.65dced9d.chunk.js": "/static/js/3.65dced9d.chunk.js",
-    "static/js/3.65dced9d.chunk.js.map": "/static/js/3.65dced9d.chunk.js.map",
+    "static/js/2.cc94ead0.chunk.js": "/static/js/2.cc94ead0.chunk.js",
+    "static/js/2.cc94ead0.chunk.js.map": "/static/js/2.cc94ead0.chunk.js.map",
+    "static/js/3.da948ce2.chunk.js": "/static/js/3.da948ce2.chunk.js",
+    "static/js/3.da948ce2.chunk.js.map": "/static/js/3.da948ce2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.790f54f5.chunk.css.map": "/static/css/main.790f54f5.chunk.css.map",
-    "static/js/2.c5dcace1.chunk.js.LICENSE.txt": "/static/js/2.c5dcace1.chunk.js.LICENSE.txt",
+    "static/css/main.1ce19fde.chunk.css.map": "/static/css/main.1ce19fde.chunk.css.map",
+    "static/js/2.cc94ead0.chunk.js.LICENSE.txt": "/static/js/2.cc94ead0.chunk.js.LICENSE.txt",
     "static/media/Aksha.b27c000f.JPG": "/static/media/Aksha.b27c000f.JPG",
     "static/media/Alison.1a48accc.jpg": "/static/media/Alison.1a48accc.jpg",
+    "static/media/sidebar.css": "/static/media/Retroica.56158ba4.ttf",
     "static/media/Bhaskar.694735c2.jpg": "/static/media/Bhaskar.694735c2.jpg",
     "static/media/Edita.76363a67.jpg": "/static/media/Edita.76363a67.jpg",
     "static/media/Gemma.5b2088e1.jpeg": "/static/media/Gemma.5b2088e1.jpeg",
@@ -33,10 +34,10 @@
     "static/media/scioly3.063af372.jpg": "/static/media/scioly3.063af372.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4144965b.js",
+    "static/js/runtime-main.8a534b09.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.c5dcace1.chunk.js",
-    "static/css/main.790f54f5.chunk.css",
-    "static/js/main.a699a4b3.chunk.js"
+    "static/js/2.cc94ead0.chunk.js",
+    "static/css/main.1ce19fde.chunk.css",
+    "static/js/main.d16f6d56.chunk.js"
   ]
 }
