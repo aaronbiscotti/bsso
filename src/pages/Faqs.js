@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import FaqsData from "./otherComponents/FaqsData";
-import * as GrIcons from "react-icons/gr";
 import "./style/Homestyle.css";
 import homeSvg from "../images/homeSvg.svg";
 

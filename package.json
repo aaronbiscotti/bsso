@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bxscioly.github.io/home",
-  "name": "bxscioly.github.io",
+  "homepage": "https://bsso.vercel.app/",
+  "name": "bsso",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
