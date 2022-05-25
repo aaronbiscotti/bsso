@@ -13,6 +13,7 @@ import "react-slideshow-image/dist/styles.css";
 import "./style/Homestyle.css";
 import Carousel from "react-bootstrap/Carousel";
 import "bootstrap/dist/css/bootstrap.min.css";
+import transparent from "../images/transparent.png";
 
 import Board from "./otherComponents/Board/Board";
 const About = () => {
@@ -118,7 +119,7 @@ const About = () => {
       <Divider />
       <Title>Meet the board</Title>
       <Board />
-      <img src="/transparent.png" alt="logo" className="logo" />
+      <img src={transparent} alt="logo" className="logo" />
     </Page>
   );
 };

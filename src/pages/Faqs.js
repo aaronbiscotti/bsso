@@ -3,6 +3,7 @@ import styled from "styled-components";
 import FaqsData from "./otherComponents/FaqsData";
 import * as GrIcons from "react-icons/gr";
 import "./style/Homestyle.css";
+import homeSvg from "../images/homeSvg.svg";
 
 const Faqs = () => {
   return (
@@ -28,7 +29,7 @@ const Faqs = () => {
         </Content>
 
         <ImageDiv>
-          <Image src="/homeSvg.svg" alt="backLogo" />
+          <Image src={homeSvg} alt="backLogo" />
         </ImageDiv>
       </Page>
     </>

@@ -8,6 +8,7 @@ import * as FaIcons from "react-icons/fa";
 import { SidebarData } from "./SidebarData";
 import SubMenu from "./SubMenu";
 import "./sidebar.css";
+import transparent from "../images/transparent.png";
 
 // let useClickOutside = (handler) => {
 //   let menuRef = useRef();
@@ -71,7 +72,7 @@ const Sidebar = () => {
       ) : (
         <NavBar>
           <NavLink to="/home">
-            <img src="/transparent.png" alt="logo" className="navLogo" />
+            <img src={transparent} alt="logo" className="navLogo" />
           </NavLink>
           <SidebarDiv>
             <Links to="/home">
