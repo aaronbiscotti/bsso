@@ -10,7 +10,7 @@ import background from "./background.mp4";
 
 const TEXTS = [
   "Exploring the world of science",
-  "Scioly to the moon🚀🌑🌑",
+  "SCIOLY TO THE MOON🚀🌑🌑",
   "Competing since 2017",
   "4x States qualifiers",
 ];
