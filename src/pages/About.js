@@ -16,9 +16,21 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import transparent from "../images/transparent.png";
 
 import Board from "./otherComponents/Board/Board";
+import Helmet from "react-helmet";
 const About = () => {
   return (
     <Page>
+      <Helmet>
+        <title>BSSO | About</title>
+        <meta
+          name="description"
+          content="Bronx Science Science Olympiad's mission statement and achievements"
+        />
+        <meta
+          name="keywords"
+          content="BSSO, Bronx Science, Science Olympiad, Bronx Science Science Olympiad, bxscioly, Bxscioly, bronx science scioly, scioly, bxsci, bronx sci, bxsci scioly"
+        />
+      </Helmet>
       <Header>
         <TextDiv>
           <h2 className="about-title">

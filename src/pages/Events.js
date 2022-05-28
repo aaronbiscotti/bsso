@@ -8,10 +8,22 @@ import PhysicsData from "./eventsData/PhysicsData";
 import EarthScienceData from "./eventsData/EarthScienceData";
 import Event from "./Event";
 import "./style/EventsStyling.css";
+import Helmet from "react-helmet";
 
 export const Events = () => {
   return (
     <div className="events">
+      <Helmet>
+        <title>BSSO | Events</title>
+        <meta
+          name="description"
+          content="The official page for Bronx Science's Science Olympiad team."
+        />
+        <meta
+          name="keywords"
+          content="BSSO, Bronx Science, Science Olympiad, Bronx Science Science Olympiad, bxscioly, Bxscioly, bronx science scioly, scioly, bxsci, bronx sci, bxsci scioly"
+        />
+      </Helmet>
       <h1>Events</h1>
     </div>
   );

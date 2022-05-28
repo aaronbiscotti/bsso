@@ -22,10 +22,22 @@ import EarthScienceData from "./pages/eventsData/EarthScienceData";
 import PhysicsData from "./pages/eventsData/PhysicsData";
 import ChemistryData from "./pages/eventsData/ChemistryData";
 import BuildData from "./pages/eventsData/BuildData";
+import { Helmet } from "react-helmet";
 
 function App() {
   return (
     <Router>
+      <Helmet>
+        <title>Bronx Science Science Olympiad</title>
+        <meta
+          name="description"
+          content="The official page for Bronx Science's Science Olympiad team."
+        />
+        <meta
+          name="keywords"
+          content="BSSO, Bronx Science, Science Olympiad, Bronx Science Science Olympiad, bxscioly, Bxscioly, bronx science scioly, scioly, bxsci, bronx sci, bxsci scioly"
+        />
+      </Helmet>
       <Sidebar />
       <Routes>
         <Route path="*" element={<Navigate replace to="/home" />} />

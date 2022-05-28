@@ -7,6 +7,7 @@ import Info from "./Info/Info";
 import arrow from "./arrow.svg";
 import TextTransition from "react-text-transition";
 import background from "./background.mp4";
+import Helmet from "react-helmet";
 
 const TEXTS = [
   "Exploring the world of science",
@@ -27,6 +28,17 @@ const Home = () => {
   return (
     <>
       <div className="page">
+        <Helmet>
+          <title>BSSO | Home</title>
+          <meta
+            name="description"
+            content="The official home page for Bronx Science's Science Olympiad team."
+          />
+          <meta
+            name="keywords"
+            content="BSSO, Bronx Science, Science Olympiad, Bronx Science Science Olympiad, bxscioly, Bxscioly, bronx science scioly, scioly, bxsci, bronx sci, bxsci scioly"
+          />
+        </Helmet>
         <video autoPlay loop muted className="background">
           <source src={background} type="video/mp4" />
         </video>

@@ -3,11 +3,23 @@ import styled from "styled-components";
 import FaqsData from "./otherComponents/FaqsData";
 import "./style/Homestyle.css";
 import homeSvg from "../images/homeSvg.svg";
+import Helmet from "react-helmet";
 
 const Faqs = () => {
   return (
     <>
       <Page>
+        <Helmet>
+          <title>BSSO | FAQs</title>
+          <meta
+            name="description"
+            content="Commonly asked questions regarding Bronx Science Science Olympiad"
+          />
+          <meta
+            name="keywords"
+            content="FAQ, bsso faq, BSSO, Bronx Science, Science Olympiad, Bronx Science Science Olympiad, bxscioly, Bxscioly, bronx science scioly, scioly, bxsci, bronx sci, bxsci scioly"
+          />
+        </Helmet>
         <Title>Frequently Asked Questions</Title>
         <Button>
           <Anchor href="https://forms.gle/TnaZtBrx5rp2QnDJ9" target="_blank">
