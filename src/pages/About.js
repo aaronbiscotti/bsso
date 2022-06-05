@@ -1,11 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-import scioly1 from "./images/scioly1.jpg";
-import scioly2 from "./images/scioly2.jpg";
-import scioly3 from "./images/scioly3.jpg";
-import scioly4 from "./images/scioly4.jpg";
-import scioly5 from "./images/scioly5.jpg";
-import scioly6 from "./images/scioly6.jpg";
+import scioly1 from "./images/scioly_1.JPG";
+import scioly2 from "./images/scioly_2.JPG";
+import scioly3 from "./images/scioly_3.JPG";
+import scioly4 from "./images/scioly_7.jpg";
+import scioly5 from "./images/scioly_8.JPG";
+import scioly6 from "./images/scioly_9.JPG";
 import * as BsIcons from "react-icons/bs";
 import * as IoIcons from "react-icons/io5";
 import * as RiIcons from "react-icons/ri";
@@ -56,7 +56,14 @@ const About = () => {
               Science.
             </h3>
             <Wrapper>
-              <Carousel>
+              <Carousel className="h-[200px]">
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100"
+                    src={scioly4}
+                    alt="Third slide"
+                  />
+                </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
@@ -81,21 +88,14 @@ const About = () => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100"
-                    src={scioly5}
-                    alt="Third slide"
-                  />
-                </Carousel.Item>
-                <Carousel.Item>
-                  <img
-                    className="d-block w-100"
-                    src={scioly4}
-                    alt="Third slide"
-                  />
-                </Carousel.Item>
-                <Carousel.Item>
-                  <img
-                    className="d-block w-100"
                     src={scioly6}
+                    alt="Third slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100"
+                    src={scioly5}
                     alt="Third slide"
                   />
                 </Carousel.Item>
