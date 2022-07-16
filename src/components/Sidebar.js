@@ -208,7 +208,7 @@ const NavBar = styled.div`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  z-index: 999;
+  background: #070a0f;
 `;
 
 export default Sidebar;

@@ -7,7 +7,7 @@
   .navLogo {
     color: var(--primary-color);
     cursor: pointer;
-    height: 120px;
+    height: 80px;
     z-index: 999;
     margin-left: auto;
   }
